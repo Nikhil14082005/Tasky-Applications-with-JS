@@ -44,4 +44,5 @@ const state = {
   // console.log(taskContents);
   // console.log(taskModal);
   
-  const htmlTaskContent = ({ id, title, description, type, url }) => {};
+//   
+const htmlTaskContent = ({ id, title, description, type, url }) => {};
