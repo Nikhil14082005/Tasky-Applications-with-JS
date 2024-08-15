@@ -330,7 +330,7 @@ const searchTask = (e) => {
   );
 
   // console.log(resultData);
-  // console.log(resultData);
+  // console.log(resultData);cl
   resultData.map(
     (cardData) =>
       taskContents.insertAdjacentHTML("beforeend", htmlTaskContent(cardData))
